@@ -1,0 +1,7 @@
+whitelist_add:
+  fields:
+    uuid:
+      required: true
+      example: "407b699a-ba14-4028-83a3-220f910c8fee"
+      selector:
+        text:
